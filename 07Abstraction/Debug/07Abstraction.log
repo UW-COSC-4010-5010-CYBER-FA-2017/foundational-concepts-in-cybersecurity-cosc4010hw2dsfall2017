@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\dstrong2\source\repos\07abstraction\07abstraction\main.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dstrong2\source\repos\07abstraction\07abstraction\main.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  07Abstraction.vcxproj -> C:\Users\dstrong2\Source\repos\07Abstraction\Debug\07Abstraction.exe
+  07Abstraction.vcxproj -> C:\Users\dstrong2\Source\repos\07Abstraction\Debug\07Abstraction.pdb (Partial PDB)
